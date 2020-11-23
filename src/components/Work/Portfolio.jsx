@@ -91,7 +91,7 @@ const cycleShowList = [
   {
     icon: <FontAwesomeIcon className={classes.github} icon={faGithub} />,
     style: 'color__icon',
-    link: 'https://github.com/ayu0819/practice-coding_school'
+    link: 'https://github.com/ayu0819/React_Portfolio'
   },
   {
     icon: <FontAwesomeIcon className={classes.desktop} icon={faDesktop} />,

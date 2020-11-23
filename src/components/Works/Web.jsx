@@ -5,7 +5,6 @@ import { faLaptopCode } from "@fortawesome/free-solid-svg-icons";
 import work_portfolio from '../../assets/img/src/work_portfolio.jpg';
 import work_school from '../../assets/img/src/work_school.jpg';
 import work_massageApp from '../../assets/img/src/work_massageApp.jpg';
-import work_tamari from '../../assets/img/src/work_tamari.jpg';
 const Web = () => {
     const cardList1 = [
       {
